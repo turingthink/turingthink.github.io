@@ -28,6 +28,10 @@
     opacity: 1;
 }
 
+.logo {
+    width: 260px;
+}
+
 
 /*** Button ***/
 .btn {
@@ -387,6 +391,15 @@ h6,
     .testimonial-carousel {
         padding-left: 4rem;
         padding-right: 4rem;
+    }
+    .logo {
+        width: 16rem;
+    }
+}
+
+@media (max-width: 575px) {
+    .logo {
+        width: 8rem;
     }
 }
 
