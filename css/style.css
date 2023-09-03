@@ -514,3 +514,16 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+/* color */
+
+
+
+.bg-4{background-color:#0d6efd !important}
+.bg-5{background-color:#6610f2 !important}
+.bg-6{background-color:#d63384 !important}
+.bg-7{background-color:#dc3545 !important}
+
+.text-4{color:#0d6efd !important}
+.text-5{color:#6610f2 !important}
+.text-6{color:#d63384 !important}
+.text-7{color:#dc3545 !important}
