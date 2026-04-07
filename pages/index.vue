@@ -132,17 +132,14 @@ const facilities2 = [
 ]
 
 const courses = [
-  { name: 'AI 人工智能', image: '/img/classes-2.jpg', teacher: '王禹老师', title: '金牌讲师', price: '¥180', age: '12-18 岁', duration: '60分钟/节', lessons: '60节', link: '/ai' },
+  { name: 'AI 人工智能', image: '/img/classes-0.jpg', teacher: '王禹老师', title: '金牌讲师', price: '¥180', age: '12-18 岁', duration: '60分钟/节', lessons: '60节', link: '/ai' },
   { name: 'Scratch 编程', image: '/img/classes-1.jpg', teacher: '王禹老师', title: '金牌讲师', price: '¥90', age: '7-10 岁', duration: '60分钟/节', lessons: '40节', link: '/scratch' },
   { name: 'Python 编程', image: '/img/classes-2.jpg', teacher: '王禹老师', title: '金牌讲师', price: '¥100', age: '10-16 岁', duration: '60分钟/节', lessons: '40节', link: '/python' },
-  { name: 'NOIP C++ 编程', image: '/img/classes-3.jpg', teacher: '马永吉老师', title: '金牌讲师', price: '¥160', age: '14+ 岁', duration: '60分钟/节', lessons: '40节', link: '/noip' },
-  { name: '幼儿基本搭建(大颗粒)', image: '/img/classes-4.jpg', teacher: '郑达花老师', title: '高级讲师', price: '¥60', age: '3-5 岁', duration: '45分钟/节', lessons: '30节', link: '/big-blocks' },
-  { name: 'Wedo 机器人编程', image: '/img/classes-5.jpg', teacher: '杨延民老师', title: '钻石讲师', price: '¥70', age: '4-7 岁', duration: '60分钟/节', lessons: '16节', link: '/wedo' },
-  { name: 'Ev3 机器人编程', image: '/img/classes-6.jpg', teacher: '杨延民老师', title: '钻石讲师', price: '¥80', age: '7-12 岁', duration: '60分钟/节', lessons: '24节', link: '/ev3' }
+  { name: 'NOIP C++ 编程', image: '/img/classes-3.jpg', teacher: '马永吉老师', title: '金牌讲师', price: '¥160', age: '14+ 岁', duration: '60分钟/节', lessons: '40节', link: '/noip' }
 ]
 
 const teamMembers = [
-  { name: '王老师', image: '/img/team-1.jpg', description: '有丰富的教学经验，精通多门编程语言，包括scratch、python、c++等。' },
+  { name: '王老师', image: '/img/team-1.jpg', description: '有丰富的教学经验，精通多门编程语言，包括python、c++等。' },
   { name: '郑老师', image: '/img/team-2.jpg', description: '经验丰富、富有爱心和耐心的教育专家。并且是家庭教育心理咨询师。' },
   { name: '马老师', image: '/img/team-3.jpg', description: '丰富的经验和专业知识，擅长教学引导,指导学生，培养他们的编程能力。' }
 ]

@@ -38,7 +38,7 @@
           <div class="col-lg-6 about-img wow fadeInUp" data-wow-delay="0.5s">
             <div class="row">
               <div class="col-12 text-center">
-                <img class="img-fluid w-75 rounded-circle bg-light p-3" src="/img/classes-2.jpg" alt="AI人工智能">
+                <img class="img-fluid w-75 rounded-circle bg-light p-3" src="/img/classes-0.jpg" alt="AI人工智能">
               </div>
             </div>
           </div>
