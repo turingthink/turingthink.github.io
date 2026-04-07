@@ -23,7 +23,7 @@
             <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-4" style="width: 75px; height: 75px;">
               <i class="fa fa-map-marker-alt fa-2x text-primary"></i>
             </div>
-            <h6>中国云南省昆明市呈贡区</h6>
+            <h6>中国云南省昆明市呈贡区惠兰园西门</h6>
           </div>
           <div class="col-md-6 col-lg-4 text-center wow fadeInUp" data-wow-delay="0.3s">
             <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-4" style="width: 75px; height: 75px;">
@@ -35,15 +35,15 @@
             <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-4" style="width: 75px; height: 75px;">
               <i class="fa fa-phone-alt fa-2x text-primary"></i>
             </div>
-            <h6>+086 138 9727 1605</h6>
+            <h6>+086 139 9736 6845</h6>
           </div>
-          <div class="col-md-6 col-lg-4 text-center wow fadeInUp" data-wow-delay="0.7s">
+          <!-- <div class="col-md-6 col-lg-4 text-center wow fadeInUp" data-wow-delay="0.7s">
             <div class="bg-light rounded-circle d-inline-flex align-items-center justify-content-center mb-4" style="width: 75px; height: 75px;">
               <i class="fab fa-weixin fa-2x text-primary"></i>
             </div>
             <h6>lvqingfei2021</h6>
             <img class="w-50 h-50 rounded" src="/img/wx.png" style="object-fit: contain;">
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
