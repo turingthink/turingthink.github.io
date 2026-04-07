@@ -14,12 +14,12 @@
         <div class="nav-item dropdown">
           <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">编程课程</a>
           <div class="dropdown-menu rounded-0 rounded-bottom border-0 shadow-sm m-0">
-            <NuxtLink to="/classes" class="dropdown-item">NOIP C++ 竞赛</NuxtLink>
-            <NuxtLink to="/classes" class="dropdown-item">Python 课程</NuxtLink>
-            <NuxtLink to="/classes" class="dropdown-item">Scratch 编程</NuxtLink>
-            <NuxtLink to="/classes" class="dropdown-item">EV3 课程</NuxtLink>
-            <NuxtLink to="/classes" class="dropdown-item">Wedo 课程</NuxtLink>
-            <NuxtLink to="/classes" class="dropdown-item">大颗粒 课程</NuxtLink>
+            <NuxtLink to="/noip" class="dropdown-item">NOIP C++ 竞赛</NuxtLink>
+            <NuxtLink to="/python" class="dropdown-item">Python 课程</NuxtLink>
+            <NuxtLink to="/scratch" class="dropdown-item">Scratch 编程</NuxtLink>
+            <NuxtLink to="/ev3" class="dropdown-item">EV3 课程</NuxtLink>
+            <NuxtLink to="/wedo" class="dropdown-item">Wedo 课程</NuxtLink>
+            <NuxtLink to="/big-blocks" class="dropdown-item">大颗粒 课程</NuxtLink>
           </div>
         </div>
         <NuxtLink to="/contact" class="nav-item nav-link" :class="{ active: route.path === '/contact' }">联系我们</NuxtLink>
