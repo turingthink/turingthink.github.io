@@ -10,7 +10,7 @@
       <div class="navbar-nav mx-auto">
         <NuxtLink to="/" class="nav-item nav-link" :class="{ active: route.path === '/' }">首页</NuxtLink>
         <NuxtLink to="/about" class="nav-item nav-link" :class="{ active: route.path === '/about' }">关于我们</NuxtLink>
-        <NuxtLink to="/classes" class="nav-item nav-link" :class="{ active: route.path === '/classes' }">编程课程</NuxtLink>
+        <NuxtLink to="/classes" class="nav-item nav-link" :class="{ active: route.path === '/classes' }">课程体系</NuxtLink>
         <div class="nav-item dropdown">
           <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">编程课程</a>
           <div class="dropdown-menu rounded-0 rounded-bottom border-0 shadow-sm m-0">
