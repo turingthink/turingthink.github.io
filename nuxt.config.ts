@@ -31,6 +31,7 @@ export default defineNuxtConfig({
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/img/favicon.ico' },
         { rel: 'stylesheet', href: '/css/bootstrap.min.css' },
+        { rel: 'stylesheet', href: '/css/style.css' },
         { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css' },
         { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css' },
         { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css' }
@@ -45,7 +46,6 @@ export default defineNuxtConfig({
   },
 
   css: [
-    'bootstrap/dist/css/bootstrap.min.css',
     '~/assets/scss/style.css'
   ],
 })
