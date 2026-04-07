@@ -1,0 +1,1 @@
+{"name":"turingthink-site","private":true,"scripts":{"build":"nuxt build","dev":"nuxt dev","generate":"nuxt generate","preview":"nuxt preview","postinstall":"nuxt prepare"},"devDependencies":{"nuxt":"^3.15.0"},"dependencies":{"@popperjs/core":"^2.11.8","bootstrap":"^5.3.8","jquery":"^4.0.0","owl.carousel":"^2.3.4","swiper":"^12.1.3","wow.js":"^1.2.2"}}
