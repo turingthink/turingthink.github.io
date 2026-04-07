@@ -5,7 +5,7 @@
         <img class="img-fluid rounded-circle" :src="course.image" :alt="course.name">
       </div>
       <div class="bg-light rounded p-4 pt-5 mt-n5">
-        <a class="d-block text-center h3 mt-3 mb-4" href="">{{ course.name }}</a>
+        <NuxtLink class="d-block text-center h3 mt-3 mb-4" :to="course.link">{{ course.name }}</NuxtLink>
         <div class="d-flex align-items-center justify-content-between mb-4">
           <div class="d-flex align-items-center">
             <img class="rounded-circle flex-shrink-0" src="/img/user1.jpg" alt="" style="width: 45px; height: 45px;">
@@ -14,7 +14,7 @@
               <small>{{ course.title }}</small>
             </div>
           </div>
-          <span class="bg-primary text-white rounded-pill py-2 px-3" href="">{{ course.price }}</span>
+          <span class="bg-primary text-white rounded-pill py-2 px-3">{{ course.price }}</span>
         </div>
         <div class="row g-1">
           <div class="col-4">

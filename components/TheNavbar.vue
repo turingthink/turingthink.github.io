@@ -14,6 +14,7 @@
         <div class="nav-item dropdown">
           <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">编程课程</a>
           <div class="dropdown-menu rounded-0 rounded-bottom border-0 shadow-sm m-0">
+            <NuxtLink to="/ai" class="dropdown-item">AI 人工智能</NuxtLink>
             <NuxtLink to="/noip" class="dropdown-item">NOIP C++ 竞赛</NuxtLink>
             <NuxtLink to="/python" class="dropdown-item">Python 课程</NuxtLink>
             <NuxtLink to="/scratch" class="dropdown-item">Scratch 编程</NuxtLink>

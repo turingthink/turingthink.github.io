@@ -132,12 +132,13 @@ const facilities2 = [
 ]
 
 const courses = [
-  { name: 'Scratch 编程', image: '/img/classes-1.jpg', teacher: '王禹老师', title: '金牌讲师', price: '¥90', age: '7-10 岁', duration: '60分钟/节', lessons: '40节' },
-  { name: 'Python 编程', image: '/img/classes-2.jpg', teacher: '王禹老师', title: '金牌讲师', price: '¥100', age: '10-16 岁', duration: '60分钟/节', lessons: '40节' },
-  { name: 'NOIP C++ 编程', image: '/img/classes-3.jpg', teacher: '马永吉老师', title: '金牌讲师', price: '¥160', age: '14+ 岁', duration: '60分钟/节', lessons: '40节' },
-  { name: '幼儿基本搭建(大颗粒)', image: '/img/classes-4.jpg', teacher: '郑达花老师', title: '高级讲师', price: '¥60', age: '3-5 岁', duration: '45分钟/节', lessons: '30节' },
-  { name: 'Wedo 机器人编程', image: '/img/classes-5.jpg', teacher: '杨延民老师', title: '钻石讲师', price: '¥70', age: '4-7 岁', duration: '60分钟/节', lessons: '16节' },
-  { name: 'Ev3 机器人编程', image: '/img/classes-6.jpg', teacher: '杨延民老师', title: '钻石讲师', price: '¥80', age: '7-12 岁', duration: '60分钟/节', lessons: '24节' }
+  { name: 'AI 人工智能', image: '/img/classes-2.jpg', teacher: '王禹老师', title: '金牌讲师', price: '¥180', age: '12-18 岁', duration: '60分钟/节', lessons: '60节', link: '/ai' },
+  { name: 'Scratch 编程', image: '/img/classes-1.jpg', teacher: '王禹老师', title: '金牌讲师', price: '¥90', age: '7-10 岁', duration: '60分钟/节', lessons: '40节', link: '/scratch' },
+  { name: 'Python 编程', image: '/img/classes-2.jpg', teacher: '王禹老师', title: '金牌讲师', price: '¥100', age: '10-16 岁', duration: '60分钟/节', lessons: '40节', link: '/python' },
+  { name: 'NOIP C++ 编程', image: '/img/classes-3.jpg', teacher: '马永吉老师', title: '金牌讲师', price: '¥160', age: '14+ 岁', duration: '60分钟/节', lessons: '40节', link: '/noip' },
+  { name: '幼儿基本搭建(大颗粒)', image: '/img/classes-4.jpg', teacher: '郑达花老师', title: '高级讲师', price: '¥60', age: '3-5 岁', duration: '45分钟/节', lessons: '30节', link: '/big-blocks' },
+  { name: 'Wedo 机器人编程', image: '/img/classes-5.jpg', teacher: '杨延民老师', title: '钻石讲师', price: '¥70', age: '4-7 岁', duration: '60分钟/节', lessons: '16节', link: '/wedo' },
+  { name: 'Ev3 机器人编程', image: '/img/classes-6.jpg', teacher: '杨延民老师', title: '钻石讲师', price: '¥80', age: '7-12 岁', duration: '60分钟/节', lessons: '24节', link: '/ev3' }
 ]
 
 const teamMembers = [
