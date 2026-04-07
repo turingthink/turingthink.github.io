@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   },
 
   router: {
-    base: '/turingthink-site/'
+    base: '/'
   },
   
   app: {
