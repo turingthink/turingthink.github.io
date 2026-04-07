@@ -8,7 +8,7 @@
         <NuxtLink class="d-block text-center h3 mt-3 mb-4" :to="course.link">{{ course.name }}</NuxtLink>
         <div class="d-flex align-items-center justify-content-between mb-4">
           <div class="d-flex align-items-center">
-            <img class="rounded-circle flex-shrink-0" src="/img/user1.jpg" alt="" style="width: 45px; height: 45px;">
+            <img class="rounded-circle flex-shrink-0" :src="course.teacherImage" alt="" style="width: 45px; height: 45px;">
             <div class="ms-3">
               <h6 class="text-primary mb-1">{{ course.teacher }}</h6>
               <small>{{ course.title }}</small>

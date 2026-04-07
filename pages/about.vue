@@ -19,11 +19,10 @@
           <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
             <h1 class="mb-4">课程体系</h1>
             <p>TuringThink提供多样化的课程，涵盖了多个编程语言和工具，旨在满足不同年龄和技能水平的学生需求。</p>
-            <p class="mb-4"><b>1. NOIP C++: 精心设计的NOIP C++课程，为学生提供深入学习C++编程语言的机会。此课程为学生参加全国奥林匹克信息学竞赛做准备。</b></p>
-            <p class="mb-4"><b>2. Python: Python课程专注于培养学生对Python的理解和运用能力。通过实践项目和创意应用的开发，学生将在动手实践中提高编程技能。</b></p>
-            <p class="mb-4"><b>3. Scratch: 适合初学者的Scratch课程通过图形化编程界面，让学生创作动画、游戏和互动故事。这将激发学生的创造力和逻辑思维。</b></p>
-            <p class="mb-4"><b>4. EV3: 利用乐高机器人套件EV3进行机器人编程和控制，培养学生解决问题和团队合作的关键技能。</b></p>
-            <p class="mb-4"><b>5. WeDo: 针对年幼学生的乐高编程套件，通过有趣的项目探索基础编程概念，让学生在乐趣中启发好奇心和学习兴趣。</b></p>
+            <p class="mb-4"><b>1. AI 人工智能: 涵盖Python数据分析、机器学习基础、深度学习等前沿技术，培养未来科技人才。</b></p>
+            <p class="mb-4"><b>2. NOIP C++: 精心设计的NOIP C++课程，为学生提供深入学习C++编程语言的机会。此课程为学生参加全国奥林匹克信息学竞赛做准备。</b></p>
+            <p class="mb-4"><b>3. Python: Python课程专注于培养学生对Python的理解和运用能力。通过实践项目和创意应用的开发，学生将在动手实践中提高编程技能。</b></p>
+            <p class="mb-4"><b>4. Scratch: 适合初学者的Scratch课程通过图形化编程界面，让学生创作动画、游戏和互动故事。这将激发学生的创造力和逻辑思维。</b></p>
           </div>
           <div class="col-lg-6 about-img wow fadeInUp" data-wow-delay="0.5s">
             <div class="row">
