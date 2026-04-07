@@ -71,11 +71,7 @@ const courses = [
   { name: 'NOIP C++ 编程', image: '/img/classes-3.jpg', teacher: '马永吉老师', title: '金牌讲师', price: '¥160', age: '14+ 岁', duration: '60分钟/节', lessons: '40节', link: '/noip' }
 ]
 
-const testimonials = [
-  { title: '编程基础', items: ['介绍编程和计算机的基本概念', '学习编程语言的基本语法、变量和数据类型', '熟悉条件语句和循环结构'] },
-  { title: '图形编程', items: ['使用图形编程工具（如Scratch）创建动画和交互式故事', '学习事件处理和控制角色行为', '创作自己的游戏和应用程序'] },
-  { title: '编程语言深入学习', items: ['学习一门主流编程语言，如Python或JavaScript', '深入了解面向对象编程思想', '参与开发实际项目'] }
-]
+const { testimonials } = useTestimonials()
 
 onMounted(() => {
   nextTick(() => {
